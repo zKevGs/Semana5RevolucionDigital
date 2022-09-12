@@ -1,0 +1,72 @@
+    *{
+        margin: 0;
+    }
+    
+    header{
+        background-color: darkgray;
+        margin: auto;
+        justify-content: center;
+        display: flex;
+        padding-top: 30px;
+    }
+    h1{
+        margin-bottom: 20px;
+    }
+#Textol {
+    width: 80%;
+     float: left;
+     font-family: Verdana;
+     font-size:150%;
+     text-align: justify;
+    }
+    #texto2 {
+        width:75%;
+        float: right;
+        font-size: 200%;
+        text-align: justify;
+    }
+    #p_texto1{
+    text-align: center;
+    margin-bottom: 2em; 
+    margin-top: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+    #p_texto2 {
+    text-align: center;
+    text-align: justify;
+    text-decoration:underline;
+    text-decoration-color:darkslategrey ;
+    }
+    #p_texto3{
+        text-align: center;
+    text-align: justify;
+    text-decoration:underline;
+    text-decoration-color:darkslategrey ;
+    }
+    #p_texto4{
+        text-align: center;
+        text-align: justify;
+        text-decoration:underline;
+        text-decoration-color:darkslategrey ;
+    }
+    a{
+        text-decoration: none;
+        border: darkslategray solid 5px;
+        background-color: darkslategray;
+        color: #777;
+        border-radius: 5px;
+    }
+    #imagen1 {
+       width: 20%;
+        margin-left: 350px;
+    }
+    #imagen2 {
+        width: 25%;
+        float: left;
+    }
+    #separacion {
+        clear: both;
+    }
+    body{
+        background-color: #777;
+    }
